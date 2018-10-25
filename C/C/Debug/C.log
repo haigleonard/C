@@ -1,0 +1,4 @@
+﻿  Main.C
+c:\users\haig\downloads\whitespace software limited\c\c\main.c(13): warning C4013: 'strcpy' undefined; assuming extern returning int
+c:\users\haig\downloads\whitespace software limited\c\c\main.c(23): warning C4013: 'strlen' undefined; assuming extern returning int
+  C.vcxproj -> C:\Users\Haig\Downloads\Whitespace Software Limited\C\Debug\C.exe
