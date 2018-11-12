@@ -1,0 +1,6 @@
+﻿  Main.C
+c:\users\haig\downloads\c\main.c(19): warning C4013: 'strcpy' undefined; assuming extern returning int
+c:\users\haig\downloads\c\main.c(29): warning C4013: 'strlen' undefined; assuming extern returning int
+c:\users\haig\downloads\c\main.c(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\haig\downloads\c\main.c(68): warning C4013: 'strcmp' undefined; assuming extern returning int
+  C.vcxproj -> C:\Users\Haig\Downloads\C\Debug\C.exe
